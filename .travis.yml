@@ -5,4 +5,4 @@ env:
   - NODE_ENV="development"
 services:
   - mongodb
-script: npm start
+script: npm run build--prod
