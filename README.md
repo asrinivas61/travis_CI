@@ -1,4 +1,4 @@
-# TopgearSpoc [![Build Status](https://travis-ci.org/asrinivas61/travis_CI.svg?branch=master)](https://travis-ci.org/asrinivas61/travis_CI) [![Packagist](https://img.shields.io/packagist/l/asrinivas61/travis_CI.svg)]() [![Packagist](https://img.shields.io/packagist/v/asrinivas61/travis_CI.svg)]()
+# TopgearSpoc [![Build Status](https://travis-ci.org/asrinivas61/travis_CI.svg?branch=master)](https://travis-ci.org/asrinivas61/travis_CI) [![Packagist](https://img.shields.io/packagist/l/asrinivas61/travis_CI.svg)]() [![license](https://img.shields.io/github/license/asrinivas61/travis_CI.svg)]()
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 1.2.0.
 
