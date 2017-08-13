@@ -1,5 +1,7 @@
 # TopgearSpoc
 
+[![Build Status](https://travis-ci.org/asrinivas61/travis_CI.svg?branch=master)](https://travis-ci.org/asrinivas61/travis_CI)
+
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 1.2.0.
 
 ## Development server
